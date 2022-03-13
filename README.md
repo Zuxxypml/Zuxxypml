@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding, pentesting.
 - 🌱 I’m currently learning ...Fullstack Deveplopment
 - 💞️ I’m looking to collaborate on ...Anything.
-- 📫 How to reach me ... priscillasweetz952@gmail.com
+- 📫 How to reach me ... adebisiakinade.123@gmail.com@gmail.com
 
 <!---
 IAMAGODDAMNHACKER/IAMAGODDAMNHACKER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
