@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Adebisi Akinade
-- 👀 I’m interested in ... Coding, pentesting, research, Open-source development.
-- 🌱 I’m currently learning ...Fullstack Web Deveplopment,IOT and AI
-- 💞️ I’m looking to collaborate on ...Anything.
-- 📫 How to reach me ... adebisiakinade.123@gmail.com
+
+![Hello Developers 👋](https://user-images.githubusercontent.com/70457708/163467711-360a4b5d-b628-4128-9daa-625cd3c66ac2.gif)
