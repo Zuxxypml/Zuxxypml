@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Codehub**
 
-- 🌱 I’m currently learning **React.js and Solidity.**
+- 🌱 I’m currently learning **React.js and Motoko.**
 
 - 👯 I’m looking to collaborate on **Web 3 projects**
 
