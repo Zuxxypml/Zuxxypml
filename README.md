@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **Codehub**
 
-- 🌱 I’m currently learning **React.js and Motoko.**
+- 🌱 I’m currently learning **React, Python and Typescript.**
 
-- 👯 I’m looking to collaborate on **Web 3 projects**
+- 👯 I’m looking to collaborate on **Anything that increase my abilities**
 
-- 🤝 I’m looking for help with **NFT Marketplace**
+- 🤝 I’m looking for help with **My Education**
 
 - 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **adebisiakinade.123@gmail.com**
 
-- ⚡ Fun fact **I'm a team player afterall.**
+- ⚡ Fun fact **Rational**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
