@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akinade Adebisi</h1>
-<h3 align="center">A Developer from Nigeria.</h3>
+<h2 align="center">A Developer from Nigeria.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuxxypml&label=Profile%20views&color=0e75b6&style=flat" alt="zuxxypml" /> </p>
 
