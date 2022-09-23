@@ -1,9 +1,9 @@
 # 💫 About Me:
-### Hi 👋
-### I am Adebisi Akinade .
-### A Junior Developer from Nigeria .
-### I Love Learning and Contributing to Open Source Projects.
-### I Spend Most of my time Coding and Gaming.<br>
+#### Hi 👋
+#### I am Adebisi Akinade .
+#### A Junior Developer from Nigeria .
+#### I Love Learning and Contributing to Open Source Projects.
+#### I Spend Most of my time Coding and Gaming.<br>
 
 
 ## 🌐 Socials:
